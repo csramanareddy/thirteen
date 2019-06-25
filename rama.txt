@@ -6,3 +6,5 @@ this is rama five
 this is rama seven
 this is rama eight
 git revert
+this is rama seven 
+rhis is rama six
